@@ -18,7 +18,7 @@ ___
 
 ## Installation
 
-Unzip the file then open  index.html file.
+Download or Clone the project from the Repository.
 
 ## What i used
 
